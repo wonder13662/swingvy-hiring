@@ -7,4 +7,4 @@
 
 ## 채용 포지션
  - [Backend Engineer](backend.md)
- - [QA Enginner](qa.md)
+ - [QA Engineer](qa.md)
