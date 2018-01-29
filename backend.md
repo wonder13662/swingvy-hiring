@@ -53,6 +53,5 @@ Compensation & Benefits
  - 창립기념일 휴가 (7/15)
 
 
-## 담당자
- - 박진영 (Swingvy Backend Engineer)
- - jinyoung.park@swingvy.com
+## 지원서 보내는 곳
+ - careers@swingvy.com

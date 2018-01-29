@@ -52,6 +52,5 @@ Compensation & Benefits
  - 창립기념일 휴가 (7/15)
 
 
-## 담당자
- - 최서진 (CEO)
+## 지원서 보내는 곳
  - careers@swingvy.com
