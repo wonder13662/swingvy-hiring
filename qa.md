@@ -32,13 +32,14 @@ Team & Culture
  - 자율과 책임
  - 글로벌 무대에서 빠르게 성장하는 스타트업의 초창기 멤버가 되어 볼 기회
  - 해외 현지에서 파트너사, 고객사들과 일해 볼 기회
- - 반기 마다 해외 법인에서 전사 워크샵 진행
+ - 반기 마다 해외 법인에서 전사 워크샵 진행 [(2018 상반기 워크샵)](https://www.linkedin.com/feed/update/urn:li:activity:6368991380827672576)
 
 Work Environment
  - MARU180 사무실(역삼동)
  - 유연근무제 (8-10am / 5-7pm) 주5일 근무
  - Macbook Pro 레티나(또는 iMac) + 27인치 모니터 지급
  - 점심/저녁 식대 지원 및 간식 제공
+ - 면접 및 평소 업무 시 자유로운 복장
 
 Self-development
  - Coursera, Udacity 등 업무 능력 향상 관련 교육비 지원
